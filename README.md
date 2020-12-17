@@ -1,2 +1,1 @@
-# Hackathon-2020
-Aashish , Sunil and Pemba
+I also used my project in hackathon presentation program
